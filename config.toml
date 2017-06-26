@@ -34,7 +34,7 @@ SectionPagesMenu = "about" # Enable menu system for lazy bloggers
 [Params.color]
     page_background = "#FFFFFF"
     main_background = "#FFFFFF"
-    alt_background  = "#252525"
+    alt_background  = "#45d4ff"
     main_text       = "#000000"
     alt_text        = "#222222"
     accent          = "#2c8cef"
