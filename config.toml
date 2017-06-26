@@ -1,3 +1,64 @@
-baseURL = "http://example.org/"
+baseURL = "https://tokyo.mypowercircle.org/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "Peer counseling in Tokyo"
+theme = "BluestNight"
+MetaDataFormat = "yaml"
+
+
+paginate = 10             # Number of posts to show before paginating
+enableRobotsTXT = true    # Suggested, enable theme robots.txt file
+SectionPagesMenu = "about" # Enable menu system for lazy bloggers
+
+[Params]
+    tagline = "My example site subtitle"           # Subtitle of your site
+    description = "Generic description of my site" # Description of your site
+    # See the documentation on the Authorbox for more on setting it up
+    # https://gitlab.com/Shadow53/BluestNight/wikis/pages/authorbox
+    authorbox = true                               # Show the Authorbox by default
+    author = "Rob Nugen"                      # The name of the person to serve as default author (optional)
+    post_navigation = false                        # Enable "Next/Previous in Section" links
+    # See the documentation on commenting for how to set up HashOver or Muut commenting
+    # https://gitlab.com/Shadow53/BluestNight/wikis/pages/comments
+    #hashover = true                               # Enable HashOver comments
+    #muut = "muut-community-name"                  # Enabled Muut comments by providing the name of your Muut community
+
+# Uncomment this section to use a background image on your site
+# https://gitlab.com/Shadow53/BluestNight/wikis/appearance
+#[Params.background]
+#    src = "/images/background.png"
+#    fit_width = true
+#    tile = false
+
+# The values here are the colors that the theme defaults to if none is provided
+# For more on what each color is for: https://gitlab.com/Shadow53/BluestNight/wikis/appearance
+[Params.color]
+    page_background = "#FFFFFF"
+    main_background = "#FFFFFF"
+    alt_background  = "#252525"
+    main_text       = "#000000"
+    alt_text        = "#222222"
+    accent          = "#2c8cef"
+    accent_text     = "#FFFFFF"
+
+# See the documentation for social icons for more services to link to
+# https://gitlab.com/Shadow53/BluestNight/wikis/social-icons
+#[Params.social]
+#    linkedin = "mylinkedinusername"
+#    github = "mygithubusername"
+
+[Params.widgets]
+    search = true                 # Enable a search bar widget
+    recent_articles = true        # Enable "Recent arcticles" widget
+    categories = true             # Enable "Categories" widget
+    tags = true                   # Enable "Tags" widget
+#    patreon = ""         # Enable "Patreon" widget
+
+[outputs]
+    # HTML and CSS are require for the theme to work.
+    # RSS is needed to have a site RSS feed.
+    # JSON is required to use search
+    home = ["HTML", "CSS", "RSS", "JSON"]
+    # This line needed only to enable per-section RSS feeds
+    section = ["HTML", "RSS"]
+    # This line needed only to enable per-taxonomy (tags, etc.) RSS feeds
+    taxonomy = ["HTML", "RSS"]
