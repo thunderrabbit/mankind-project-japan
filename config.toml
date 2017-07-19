@@ -10,8 +10,8 @@ enableRobotsTXT = true    # Suggested, enable theme robots.txt file
 SectionPagesMenu = "about" # Enable menu system for lazy bloggers
 
 [Params]
-    tagline = "My example site subtitle"           # Subtitle of your site
-    description = "Generic description of my site" # Description of your site
+    tagline = "My Power Circle"           # Subtitle of your site
+    description = "Self help with support from my friends" # Description of your site
     # See the documentation on the Authorbox for more on setting it up
     # https://gitlab.com/Shadow53/BluestNight/wikis/pages/authorbox
     authorbox = true                               # Show the Authorbox by default
