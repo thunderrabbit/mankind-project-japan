@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2015-09-26T11:57:02+09:00
 ---
 
-## 11:57 Saturday 26 September 2015 JST
-
 Three remaining members of Tokyo I-group met last night and expressed
 interest in expanding our community which has been in hibernation for
 some years.

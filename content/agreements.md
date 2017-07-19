@@ -1,13 +1,11 @@
 ---
-date: 2017-06-10
+date: 2017-02-10
 linktitle: Agreements
 menu:
   main
 title: Agreements
 weight: 10
 ---
-
-## Agreements
 
 3. Confidentiality. Nothing said by other men in the circle can be spoken about outside of circles. You may not even say which men were at circle. You may, however, talk about your own experience. 
 2. No drugs or alcohol. If you are high or have been drinking, tell the group. Honor this sacred space.
