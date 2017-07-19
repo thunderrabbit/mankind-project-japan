@@ -20,3 +20,6 @@ weight: 10
 9. No interrupting - use hand gestures to signify resonance…
    … with the exception of maintaining the integrity of the container or calling a man if he goes too deep into story.
 10. Every man has the right to pass on any exercise.
+
+
+If you agree to the above, feel free to contact tokyoATmypowercircle.org for more information about joining.
