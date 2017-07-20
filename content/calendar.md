@@ -7,6 +7,8 @@ title: Meetings
 weight: 25
 ---
 
+Doors open at 6:45pm.  Meetings start promptly at 7pm.
+
 Tokyo Men's Circle meets on 1st and 3rd Tuesdays each month.
 
 Tokyo co-gender Circle meets on 2nd and 4th Tuesdays each month.
