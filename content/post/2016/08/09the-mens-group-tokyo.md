@@ -16,6 +16,6 @@ The group was founded by men in the Mankind Project (http://mkp.org) and draws h
 This work is for every man who wants to look deeply at himself and how he engages the world around him. Each participants share deep feelings and look at the real challenge and issue of their lives.
 
 It is a self help group, and totally free of charge. It is also free of any religious or political involvement.
-Meetings are take place every other Monday evenings 6-8pm(*) in central Tokyo (Nish-Azabu).
+Meetings are take place every other Monday evenings 6-8pm(*) in central Tokyo (Nishi-Azabu).
 
 (* ed note:  Meetings are now 1st and 3rd Tuesday evenings 7-9pm)
