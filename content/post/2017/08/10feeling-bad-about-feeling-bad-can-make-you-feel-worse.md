@@ -14,4 +14,4 @@ experience fewer negative emotions, which adds up to better
 psychological health,” said study senior author Iris Mauss, an
 associate professor of psychology at UC Berkeley.
 
-[Read more](http://news.berkeley.edu/2017/08/10/emotionalacceptance/)
+Read more at http://news.berkeley.edu/2017/08/10/emotionalacceptance/
