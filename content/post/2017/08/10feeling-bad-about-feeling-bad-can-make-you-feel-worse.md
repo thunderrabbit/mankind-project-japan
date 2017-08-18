@@ -2,10 +2,8 @@
 title: Feeling bad about feeling bad can make you feel worse
 tags: [ "ucberkeley", "yasmin anwar", "" ]
 author: Yasmin Anwar
-date: 2017-08-18T12:43:04+09:00
+date: 2017-08-10T12:43:04+09:00
 ---
-
-## 10 August 2017
 
 Pressure to feel upbeat can make you feel downbeat, while embracing
 your darker moods can actually make you feel better in the long run,
