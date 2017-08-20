@@ -1,6 +1,6 @@
 ---
 title: Feeling bad about feeling bad can make you feel worse
-tags: [ "ucberkeley", "yasmin anwar", "" ]
+tags: [ "ucberkeley", "yasmin anwar" ]
 author: Yasmin Anwar
 date: 2017-08-10T12:43:04+09:00
 ---
