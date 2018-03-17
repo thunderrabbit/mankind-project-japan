@@ -5,8 +5,6 @@ author: Rob Nugen
 date: 2017-09-26T22:10:04+09:00
 ---
 
-## 22:10 Tuesday 26 September 2017 JST
-
 Tonight the co-gender group had its first meeting after our initial 8
 meetings.  Two new people came and seemed keen enough that they will
 attend again.  I did a process which helped people see the value of
