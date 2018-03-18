@@ -12,7 +12,7 @@ install:
 # Build the website
 script:
   - pygmentize -V
-  - git clone https://gitlab.com/thunderrabbit/BluestNight.git themes/BluestNight
+  - git clone https://gitlab.com/BluestNight/BluestNight.git themes/BluestNight
   - hugo -v
 
 # Deploy to GitHub pages
