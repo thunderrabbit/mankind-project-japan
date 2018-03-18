@@ -1,4 +1,6 @@
 baseURL = "https://tokyo.mypowercircle.org/"
+languageCode = "en-us"
+title = "Peer counseling in Tokyo"
 theme = "BluestNight"
 MetaDataFormat = "yaml"
 
@@ -60,10 +62,3 @@ SectionPagesMenu = "about" # Enable menu system for lazy bloggers
     section = ["HTML", "RSS"]
     # This line needed only to enable per-taxonomy (tags, etc.) RSS feeds
     taxonomy = ["HTML", "RSS"]
-
-[Languages]
-[Languages.en]
-
-languageCode = "en-us"
-languageName = "English"
-title = "Peer counseling in Tokyo"
