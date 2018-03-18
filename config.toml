@@ -49,7 +49,7 @@ SectionPagesMenu = "about" # Enable menu system for lazy bloggers
 [Params.widgets]
     search = true                 # Enable a search bar widget
     recent_articles = true        # Enable "Recent arcticles" widget
-    categories = true             # Enable "Categories" widget
+    categories = false             # Enable "Categories" widget
     tags = true                   # Enable "Tags" widget
 #    patreon = ""         # Enable "Patreon" widget
 
