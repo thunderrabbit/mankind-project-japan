@@ -1,10 +1,10 @@
 ---
-date: 2017-06-10
 linktitle: Location
 menu:
   main
 title: Location
 weight: 20
+hide_readingtime: true
 ---
 
 Tokyo Men's Group currently meets in Hiroo on 1st and 3rd Tuesdays.

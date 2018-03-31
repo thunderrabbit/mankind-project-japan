@@ -1,10 +1,10 @@
 ---
-date: 2018-01-10
 linktitle: Calendar
 menu:
   main
 title: Meetings
 weight: 25
+hide_readingtime: true
 ---
 
 Doors open at 6:45pm.  Meetings start promptly at 7pm.
