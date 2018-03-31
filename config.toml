@@ -11,7 +11,7 @@ SectionPagesMenu = "about" # Enable menu system for lazy bloggers
 
 [Params]
     tagline = "My Power Circle"           # Subtitle of your site
-    description = "Self help with support from my friends" # Description of your site
+    description = "Men's Circle in Tokyo" # Description of your site
     # See the documentation on the Authorbox for more on setting it up
     # https://gitlab.com/Shadow53/BluestNight/wikis/pages/authorbox
     authorbox = true                               # Show the Authorbox by default
