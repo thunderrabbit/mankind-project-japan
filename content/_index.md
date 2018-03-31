@@ -9,7 +9,7 @@ weight: 1
 
 # Imagine
 
-Imagine a circle where each man outrageously supports each other in realizing each others' dreams and aspirations.
+Imagine a circle where each man outrageously supports each other in realizing each other's dreams and aspirations.
 
 Imagine a circle where every one listens, not only to what you say, but also to what’s behind or underneath that. Everyone is in tune with your voice, your emotion, your energy – everyone is intent on receiving everything you communicate. This is where everyone listens to hear the very best in you, even when you can’t hear it in yourself.
 
