@@ -1,10 +1,10 @@
 ---
-date: 2017-06-10
 linktitle: About
 menu:
   main
 title: What is peer counseling?
 weight: 5
+hide_readingtime: true
 ---
 
 TL;DR: Confidential listening; just a place to get things off your chest.
