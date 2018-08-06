@@ -31,4 +31,4 @@ A day of experiential personal growth work within a contemporary men’s group.
 * Notice the consequences of making choices in life.
 * Find your passion and create an intention for the future.
 
-Only 12 places available https://journey-of-heart-2018.peatix.com/  (password: 23nov)
+Only 12 places available: https://journey-of-heart-2018.peatix.com/  (password: 23nov)
