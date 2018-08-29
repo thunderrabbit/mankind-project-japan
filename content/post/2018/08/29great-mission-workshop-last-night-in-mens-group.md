@@ -1,5 +1,5 @@
 ---
-title: "great mission workshop last night in men's group"
+title: "Life Mission workshop success"
 tags: [ "mkp", "mission", "tokyo", "mens work" ]
 author: Rob Nugen
 date: 2018-08-28T21:40:32+09:00
