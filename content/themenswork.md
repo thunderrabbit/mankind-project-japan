@@ -63,3 +63,4 @@ Paul Newell is a coach and facilitator in the New York Metro area working with m
 
 **Rob Nugen**
 
+Rob Nugen is a peer counselor and facilitator in Tokyo, leading circles for men in person and online.
