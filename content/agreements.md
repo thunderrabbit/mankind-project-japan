@@ -5,6 +5,7 @@ menu:
 title: Agreements
 weight: 10
 hide_readingtime: true
+showsidebar: true
 ---
 
 3. Confidentiality. Nothing said by other men in the circle can be spoken about outside of circles. You may not even say which men were at circle. You may, however, talk about your own experience. 

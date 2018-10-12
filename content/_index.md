@@ -5,6 +5,7 @@ menu:
 hide_list: true
 title: Welcome
 weight: 1
+showsidebar: true
 ---
 
 # Imagine

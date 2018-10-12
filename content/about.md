@@ -5,6 +5,7 @@ menu:
 title: What is peer counseling?
 weight: 5
 hide_readingtime: true
+showsidebar: true
 ---
 
 TL;DR: Confidential listening; just a place to get things off your chest.

@@ -5,6 +5,7 @@ menu:
 title: the Men's Work
 weight: 10
 hide_readingtime: true
+showsidebar: true
 ---
 
 ##### The Call #####

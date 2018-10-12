@@ -5,6 +5,7 @@ menu:
 title: Meetings
 weight: 25
 hide_readingtime: true
+showsidebar: true
 ---
 
 Doors open at 6:45pm.  Meetings start promptly at 7pm.
