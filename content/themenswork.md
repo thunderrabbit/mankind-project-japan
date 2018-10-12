@@ -57,10 +57,7 @@ ACT NOW. There are only 12 spots per cohort.
 
 ##### The Facilitators: #####
 
-**Paul Newell**
+{{< figure src="/images/trainers/paul_newell_225x225.jpg" title="Paul Newell" caption="Paul Newell is a coach and facilitator in the New York Metro area working with men on showing up and getting healthy in all areas of their lives. His spontaneous FB live videos have been the inspiration for a number of Men’s Work LIVE calls." >}}
 
-Paul Newell is a coach and facilitator in the New York Metro area working with men on showing up and getting healthy in all areas of their lives. His spontaneous FB live videos have been the inspiration for a number of Men’s Work LIVE calls.
 
-**Rob Nugen**
-
-Rob Nugen is a peer counselor and facilitator in Tokyo, leading circles for men in person and online.
+{{< figure src="/images/trainers/rob_nugen_225x225.jpg" title="Rob Nugen" caption="Rob Nugen is a peer counselor and facilitator in Tokyo, leading circles for men in person and online." >}}
