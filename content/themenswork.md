@@ -54,7 +54,7 @@ is a 3 week (90 minute sessions), live, facilitated online course for men settin
 
 3 weeks: 20,000 yen
 
-ACT NOW. There are only 12 spots per cohort.  Enter your email to get payment information.
+ACT NOW. Don't miss the chance to get the wisdom of men who have already been there.
 
 {{< mailchimp_small >}}
 
