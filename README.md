@@ -1,6 +1,6 @@
-# website for ManKind Project Japan (Tokyo)
+# website for ManKind Project Japan
 
-Site for ManKind Project Japan (Tokyo), currently at https://tokyo.mkpjapan.org/
+Site for ManKind Project Japan, currently at https://www.mkpjapan.org/
 
 ## Requirements
 
