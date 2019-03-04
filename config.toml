@@ -1,6 +1,6 @@
 baseURL = "https://tokyo.mypowercircle.org/"
 languageCode = "en-us"
-title = "Peer counseling in Tokyo"
+title = "ManKind Project Japan"
 theme = "BluestNight"
 MetaDataFormat = "yaml"
 
@@ -10,6 +10,7 @@ enableRobotsTXT = true    # Suggested, enable theme robots.txt file
 SectionPagesMenu = "about" # Enable menu system for lazy bloggers
 
 [Params]
+    titleimage = "/images/site/title/MKPJapan_horizontal.jpg"
     tagline = "My Power Circle"           # Subtitle of your site
     description = "Men's Circle in Tokyo" # Description of your site
     # See the documentation on the Authorbox for more on setting it up
