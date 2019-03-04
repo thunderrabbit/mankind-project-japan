@@ -1,6 +1,6 @@
-# website for Tokyo Men's Group
+# website for ManKind Project Japan (Tokyo)
 
-Site for Tokyo Men's Group, currently at https://tokyo.mkpjapan.org/
+Site for ManKind Project Japan (Tokyo), currently at https://tokyo.mkpjapan.org/
 
 ## Requirements
 
