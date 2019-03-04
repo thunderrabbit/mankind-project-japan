@@ -1,4 +1,4 @@
 [submodule "themes/BluestNight"]
 	path = themes/BluestNight
-	url = git@github.com:thunderrabbit/BluestNight.git
+	url = https://github.com/thunderrabbit/BluestNight.git
 	branch = mkpjapan
