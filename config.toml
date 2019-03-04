@@ -17,7 +17,7 @@ SectionPagesMenu = "about" # Enable menu system for lazy bloggers
     # https://gitlab.com/Shadow53/BluestNight/wikis/pages/authorbox
     authorbox = true                               # Show the Authorbox by default
     author = "Rob Nugen"                      # The name of the person to serve as default author (optional)
-    post_navigation = false                        # Enable "Next/Previous in Section" links
+    post_navigation = true                        # Enable "Next/Previous in Section" links
     # See the documentation on commenting for how to set up HashOver or Muut commenting
     # https://gitlab.com/Shadow53/BluestNight/wikis/pages/comments
     #hashover = true                               # Enable HashOver comments
