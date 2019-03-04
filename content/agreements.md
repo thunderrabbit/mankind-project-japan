@@ -22,4 +22,4 @@ showsidebar: true
 
 - - - - -
 
-If you agree to the above, feel free to contact tokyoATmypowercircle.org for more information about joining.
+If you agree to the above, feel free to contact tokyoATmkpjapan.org for more information about joining.
