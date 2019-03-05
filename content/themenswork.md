@@ -24,10 +24,10 @@ In our experience with over 60,000 men around the world, we’ve learned that me
 
 We’re launching a new platform designed for the man starting out on his personal growth journey. It’s a course for men to take a first step into something unknown – a men’s group. In just three short weeks we’ll give you a solid foundation for moving ahead in your life, and you won’t be going alone.
 
-Two new Cohorts launching for men in Tokyo:
+<!-- New Cohorts launching for men in Tokyo:
 
 	– First Cohort: November 2nd, 9th, 16th (Fridays)
-	– Next Cohort: December 7th, 14th, 21st (Fridays)
+	– Next Cohort: December 7th, 14th, 21st (Fridays)  -->
 
 ##### Each Cohort: #####
 

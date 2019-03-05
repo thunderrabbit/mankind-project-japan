@@ -1,8 +1,6 @@
-# website for Tokyo Men's Group
+# website for ManKind Project Japan
 
-[![Build Status](https://travis-ci.org/thunderrabbit/tokyo-mens-group.svg?branch=master)](https://travis-ci.org/thunderrabbit/tokyo-mens-group)
-
-Site for Tokyo Men's Group, currently at https://tokyo.mypowercircle.org/
+Site for ManKind Project Japan, currently at https://www.mkpjapan.org/
 
 ## Requirements
 

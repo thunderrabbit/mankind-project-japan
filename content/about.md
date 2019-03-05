@@ -12,12 +12,11 @@ TL;DR: Confidential listening; just a place to get things off your chest.
 Come talk about whatever is important to you, and be heard by men who
 care.
 
-Tokyo men's circle is part of The Mankind Project
-(http://mankindproject.org/) which supports men in finding their
+Tokyo men's circle is part of [The Mankind Project](https://mankindproject.org/) which supports men in finding their
 authentic selves and living their mission in the world.
 
 Some of the men in the Tokyo circle have attended a weekend
-experiential training called New Warrior Training Adventure.  The
+experiential training called [New Warrior Training Adventure](https://nwta.mkp.org).  The
 weekend training is normally a prerequisite for sitting in circle, but
 there are no trainings in Japan, so we are open to new men coming to
 sit with us.
