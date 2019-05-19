@@ -29,6 +29,6 @@ The CIRCLE OF MEN - A JOURNEY OF THE HEART
 <br>電話：03-6804-2191
 <br>e-mail: tiki3282@gmail.com
 <br>
-<br>田村毅のプロフィール https://docs.google.com/document/d/1fVvqTZk5mf4ZxSHR6n_6wdGoMCRsImoMUYj3PC4-kQM/edit
+<br>[田村毅のプロフィール](https://docs.google.com/document/d/1fVvqTZk5mf4ZxSHR6n_6wdGoMCRsImoMUYj3PC4-kQM/edit)
 <br>
 <br>"水面を走るさざ波のように、ひとりの人生の発見は、他の男性たちに伝わります"
