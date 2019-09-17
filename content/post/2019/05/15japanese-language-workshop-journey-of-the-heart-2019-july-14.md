@@ -3,6 +3,7 @@ title: "心の旅路：男性たちの集い"
 tags: [ "mkp", "tokyo", "日本語" ]
 author: Rob Nugen
 date: 2019-05-15T09:01:11+09:00
+draft: true
 aliases: [
 	"15japanese-language-workshop"
 ]
