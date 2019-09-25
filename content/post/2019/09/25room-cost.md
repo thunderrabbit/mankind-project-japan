@@ -18,7 +18,7 @@ location to make advance payments for our room reservation, so we
 
 Instead of passing the hat each week, we adopted a monthly payment system.
 
-On the first Tuesday of each month, men will be invited to pay in one
+On the first Tuesday of each month, men who have been sitting with us for a while will be invited to pay in one
 of the following three ways:
 
 1. 4000/month   (5000 if the month has 5 Tuesdays)
