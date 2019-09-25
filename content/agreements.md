@@ -8,9 +8,9 @@ hide_readingtime: true
 showsidebar: true
 ---
 
-3. Confidentiality. Nothing said by other men in the circle can be spoken about outside of circles. You may not even say which men were at circle. You may, however, talk about your own experience. 
+1. Confidentiality: Nothing said by other men in the circle can be spoken about outside of circles. You may not even say which men were at circle. You may, however, talk about your own experience. 
 2. No drugs or alcohol. If you are high or have been drinking, tell the group. Honor this sacred space.
-1. Arrive on time.  Punctuality is very important, as it reinforces integrity.
+3. Arrive on time.  Punctuality is very important, as it reinforces integrity.
 4. We’re not here to fix people.
 5. We are not here to serve other men, We are here to serve ourselves. By serving ourselves the circle is better served as we take responsibility for anything that comes up for us personally.
 6. We do our best to use I Statements, not You/We statements. When we take responsibility for our language we can take responsibility for ourselves. 
