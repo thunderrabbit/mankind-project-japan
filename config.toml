@@ -8,6 +8,7 @@ MetaDataFormat = "yaml"
 paginate = 10             # Number of posts to show before paginating
 enableRobotsTXT = true    # Suggested, enable theme robots.txt file
 SectionPagesMenu = "about" # Enable menu system for lazy bloggers
+ignoreErrors = ["error-output-taxonomy"]
 
 [Params]
     titleimage = "/images/site/title/MKPJapan_horizontal.jpg"
