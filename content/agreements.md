@@ -25,7 +25,7 @@ reinforces integrity.
 
 4. I am not here to fix people.
 
-5. I am not here to serve other men, I am are here to serve myself. By
+5. I am not here to serve other men, I am here to serve myself. By
 serving myself the circle is better served as I take responsibility
 for anything that comes up for me personally.
 
