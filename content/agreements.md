@@ -20,6 +20,41 @@ showsidebar: true
    … with the exception of maintaining the integrity of the container or calling a man if he goes too deep into story.
 10. Every man has the right to pass on any exercise.
 
+
+
+1. Anything said or done in this group is confidential. Group
+facilitators are not bound by this agreement in the case of
+expressions of intent to harm self or others. Recording any portion of
+the meeting is prohibited.
+2. I agree to refrain from initiating any business or personal
+relationship with other participants that a reasonable person would
+find unethical or exploitative.
+
+3. I commit to checking out before leaving a session. If I fail to do so
+or exhibit concerning behavior I understand that another attendee may
+contact me, my emergency contact, or emergency services.
+4. If my internet drops, I will call or text meeting organizers using
+provided information to me by meeting organizers.
+5. Non-Violence - Violence can be physical, verbal, emotional, or
+spiritual. I acknowledge that my words and actions have an impact on
+those around me. I take responsibility for my words and actions.
+6. No Drugs or Alcohol - I will not attend the group while under the
+influence of alcohol or recreational drugs. If I break this agreement
+I will tell the group and accept the choice of the group in handling
+this to create a safe space for the men present.
+
+**Acknowledgement & Commitment**
+
+*I understand that the ManKind Project trainings, programs, and groups
+are not a substitute for professional mental health services. I am 18
+years of age or older. I commit to being empathetic, compassionate,
+respectful, and welcoming to all who attend regardless of their
+race/ethnicity, ability, socio-economic status, age, religion, or
+sexual orientation. I understand that I may be removed from the group
+at any time for being disruptive or not following the ground rules or
+guidelines.*
+
+
 - - - - -
 
 If you agree to the above, feel free to email tokyo α𝐭 mkpjapan.org for more information about attending.
