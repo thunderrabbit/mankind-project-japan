@@ -8,6 +8,8 @@ hide_readingtime: true
 showsidebar: true
 ---
 
+I agree to abide by the following:
+
 1. Confidentiality: Nothing said by other men in the circle can be
 spoken about outside of circles. I may not even say which men were at
 circle. I may, however, talk about my own experience. Group
