@@ -78,8 +78,6 @@ provided information to me by meeting organizers.
 
 5. I will refrain from eating during the meeting
 
-6. Drinks are fine in between rounds only
-
 
 **Acknowledgement & Commitment**
 
