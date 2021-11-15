@@ -16,7 +16,9 @@ Tokyo men's circle is part of [The Mankind Project](https://mankindproject.org/)
 authentic selves and living their mission in the world.
 
 Some of the men in the Tokyo circle have attended a weekend
-experiential training called [New Warrior Training Adventure](https://nwta.mkp.org).  The
+experiential training called
+[New Warrior Training Adventure](https://mankindproject.org/new-warrior-training-adventure/).
+The
 weekend training is normally a prerequisite for sitting in circle, but
 there are no trainings in Japan, so we are open to new men coming to
 sit with us.
