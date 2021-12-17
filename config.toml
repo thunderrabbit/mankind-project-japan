@@ -64,3 +64,6 @@ ignoreErrors = ["error-output-taxonomy"]
     section = ["HTML", "RSS"]
     # This line needed only to enable per-taxonomy (tags, etc.) RSS feeds
     taxonomy = ["HTML", "RSS"]
+
+[blackfriday]
+    hrefTargetBlank = true
