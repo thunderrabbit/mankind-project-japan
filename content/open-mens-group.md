@@ -1,9 +1,9 @@
 ---
-linktitle: Open Men's Group
+linktitle: Online
 menu:
   main
-title: Online Men’s Group
-weight: 25
+title: Online Open Men's Group
+weight: 10
 hide_readingtime: true
 showsidebar: true
 ---
