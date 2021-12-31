@@ -1,7 +1,5 @@
 ---
 linktitle: Online
-menu:
-  main
 title: the Men's Work
 weight: 10
 hide_readingtime: true
