@@ -10,4 +10,6 @@ showsidebar: true
 
 Tokyo Men's Group meets online every Tuesday.
 
-New men are welcome on the first Tuesday of each month.  See [our Meetup page](https://www.meetup.com/ManKind-Project-Tokyo/) to RSVP, or email tokyo α𝐭 mkpjapan.org for questions or more information.
+New men are welcome on the first Tuesday of each month.
+Click the [ONLINE](/open-mens-group/) menu to register.
+Email tokyo (@) mkpjapan.org for questions or more information.
