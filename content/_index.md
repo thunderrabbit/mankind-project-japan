@@ -30,4 +30,4 @@ Imagine a circle which is continually growing by learning from each other and fr
 
 Imagine a circle which is creating a positive impact in the world through its actions. lf this calls to you, join thousands of men who gather weekly around the world.
 
-Here in Tokyo we meet weekly on Tuesdays.  New men are invited on first Tuesdays of the month.  https://www.meetup.com/ManKind-Project-Tokyo/events/
+We meet weekly on Tuesdays, 7pm Japan Time (GMT +9).  [Register to join us online](/open-mens-group/).

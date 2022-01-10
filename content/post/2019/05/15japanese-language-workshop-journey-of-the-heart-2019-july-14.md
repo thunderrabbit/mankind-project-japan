@@ -71,8 +71,3 @@ https://mankindproject.org/ は、様々な人生を歩んできたすべて男�
 <br>"水面を走るさざ波のように、ひとりの人生の発見は、他の男性たちに伝わります"
 
 申し込みはこちらから　https://www.meetup.com/ManKind-Project-Tokyo/events/261334264/
-
-
-
-
-
