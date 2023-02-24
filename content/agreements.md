@@ -10,86 +10,66 @@ showsidebar: true
 
 I agree to abide by the following:
 
+### Confidentiality
 
-#### Safety
+What I say and do here is confidential. I will only share my own experience and personal insights. I will not share another man's words, actions, or identity outside this group. If I wish to mention anything specific a man shared in a previous meeting, I will ask his permission first.
 
-1. Anything said or done in this group is confidential. Group
-facilitators are not bound by this agreement in the case of
-expressions of intent to harm self or others.
+Confidentiality is there to create a sense of safety for all. Confidentiality does not apply in situations of abuse or neglect of children and the elderly and/or threat to harm self or others. If someone's life is in immediate danger, action may be required.
 
-2. I will refrain from initiating any business or personal
-relationship with other participants that a reasonable person would
-find unethical or exploitative.
+### No recording
 
-3. I will check out before leaving a session. If I fail to do so, or
-exhibit concerning behavior I understand that another attendee may
-contact me, my emergency contact, or emergency services.
+No one is to record this meeting in any way.
 
-4. Non-Violence - Violence can be physical, verbal, emotional, or
-spiritual. I acknowledge that my words and actions have an impact on
-those around me. I take responsibility for my words and actions.
+### Punctuality
 
-#### Container
+I will arrive on time. If I arrive late, I may not be allowed into that day's meeting.
 
-1. Confidentiality: Nothing said by other men in the circle can be
-spoken about outside of circles. I may not even say which men were at
-circle. I may, however, talk about my own experience.
+### Ethical Relationships
 
-2. No drugs or alcohol.  I will not attend the group while under the
-influence of alcohol or recreational drugs. If I break this agreement
-I will tell the group and accept the choice of the group in handling
-this to create a safe space for the men present.
+No solicitations. This is not a business group, dating group or a place to push religious beliefs or political agendas. I will refrain from initiating any personal relationship with other participants that a reasonable person would find unethical or exploitative.
 
-3. I will arrive on time. Punctuality is very important, as it
-reinforces integrity.
+### Non-Violence
 
-4. I am not here to fix people.
+I will refrain from violence, whether physical, verbal, emotional, or spiritual. I take responsibility for my words and actions and acknowledge that they impact those around me.
 
-5. I am not here to serve other men, I am here to serve myself. By
-serving myself the circle is better served as I take responsibility
-for anything that comes up for me personally.
+### No Drugs or Alcohol
 
-6. I will do my best to use I Statements, not You/We statements. When
-I take responsibility for my language I can take responsibility for
-myself.
+No drugs or alcohol. I will not attend the group while under the influence of alcohol or recreational drugs. If I break this agreement, I will tell the group and accept the group's choice in handling this to maintain a safe space for the men present.
 
-7. I will ask another man before giving feedback. He may say no.
+### Participation
 
-8. Feedback is a reflection on what I heard/saw/felt, and is focused
-on the man who is sharing. Opinions and Advice are only given if
-requested.
+I will speak openly and truthfully in "I" statements (not "you" or "he" statements).
 
-9. I will not interrupt - I will use hand gestures to signify
-resonance… … with the exception of maintaining the integrity of the
-container or calling a man if he goes too deep into his story.
+I will not interrupt verbally - but instead, use hand gestures to signify resonance or ask a question. Exceptions are for facilitation, timekeeping or maintaining safety.
 
-10. I agree that every man has the right to pass on any exercise.
+I am responsible for taking care of myself. If I have questions, or need something, I will ask.
 
-#### Online meetings
+### Advice & Feedback
 
-1. Recording any portion of the meeting is prohibited.
+I am not here to fix or help others: I serve myself and the group by taking responsibility for anything that comes up for me personally.
 
-2. If my internet drops, I will call or text meeting organizers using
-provided information to me by meeting organizers.
+I am not here to give or ask for advice. However, I can share relevant experiences from my own life or invite men to share theirs.
 
-3. I will keep my video on throughout the meeting.  This helps create connection and safety.
+I will ask permission before offering feedback. Feedback reflects what I heard/saw/felt in the man who just shared.
 
-4. I will refrain from multitasking (on computer, phone, etc) during the meeting
+### Safety
 
-5. I will refrain from eating during the meeting
+Safety is everyone's responsibility. Any man may pass at any time or stop or pause any process to maintain safety.
 
+Checking out
+I will check out before hanging up. I understand men could be concerned for my welfare, and I will respond if someone contacts me. If I fail to do so or exhibit concerning behaviour, someone from MKP Japan may contact my emergency contact or emergency services.
 
-**Acknowledgement & Commitment**
+### Online Etiquette
+- I will keep my video and audio connected throughout the meeting.
+- I will join from a private location (no roommates/partners present).
+- I will mute myself when I'm not talking.
+- I will be fully present and not multitask. (e.g. not browsing the web or checking my phone during the meeting.)
+- I will refrain from eating during the meeting.
+- If my internet drops, I will contact the organisers using the information provided to me.
+- I will always pay attention to the screen in case someone is trying to communicate with me.
 
-*I understand that the ManKind Project trainings, programs, and groups
-are not a substitute for professional mental health services. I am 18
-years of age or older. I commit to being empathetic, compassionate,
-respectful, and welcoming to all who attend regardless of their
-race/ethnicity, ability, socio-economic status, age, religion, or
-sexual orientation. I understand that I may be removed from the group
-at any time for being disruptive or not following the ground rules or
-guidelines.*
-
+### Acknowledgement & Commitment
+ManKind Project's training, programs, and groups are not a substitute for professional mental health services. I am a man of 18 years of age or older. Mankind Project Japan only welcomes those who agree to be respectful, compassionate and welcoming to all who attend, regardless of their race/ethnicity, ability, socio-economic status, age, religion, or sexual orientation. I understand that I may be removed from the group for being disruptive or not following these agreements.
 
 - - - - -
 
