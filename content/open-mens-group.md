@@ -12,7 +12,7 @@ Connect in a supportive and compassionate space. Take a step and discover if Men
 
 Check in with men from across the country, around the world and next door. Find brotherhood and insight with a community of men.
 
-* Every Tuesday of the month 7:00-8:30pm JST
+* First Tuesdays of the month 7:00-9:00pm JST
 * FREE
 + Confidential
 * Facilitated
