@@ -14,7 +14,7 @@ Check in with men from across the country, around the world and next door. Find 
 
 * First Tuesdays of the month 7:00-9:00pm JST
 * FREE
-+ Confidential
+* Confidential
 * Facilitated
 
 MKP Open Men's Groups are designed as an entry level group to provide a place for men to experience sharing deeply, personally, of themselves. We are a peer support group. We expect men to work with local community professionals for therapeutic support.
