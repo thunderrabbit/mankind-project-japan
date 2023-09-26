@@ -59,7 +59,9 @@
         </nav>
       </div>
       <div id="main-container" class="row" role="main" itemprop="mainContentOfPage">
+        {{ if .Site.Params.leftsidebar }}{{ partial "sidebar.html" . }}{{ end }}
         {{ block "main_content" . }}{{ end }}
+        {{ if (not .Site.Params.leftsidebar) }}{{ partial "sidebar.html" . }}{{ end }}
       </div>
       <footer class="row">
         <div class="small-full medium-half row-item small-text-center medium-text-left"><small>&copy; {{now.Format "2006"}} <span itemprop="publisher" itemscope itemtype="http://schema.org/Organization"><span itemprop="name">{{ .Site.Title }}</span></span>.</small></div>
