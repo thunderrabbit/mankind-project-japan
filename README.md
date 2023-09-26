@@ -9,8 +9,9 @@ Site for ManKind Project Japan, currently at https://www.mkpjapan.org/
 ## Getting started
 
 1. install hugo
-2. clone this repository
-2. clone the theme: `git submodule update --init --recursive`
+1. clone this repository
+1. update the submodule with the theme: `git submodule update --init --recursive`
+1. `hugo server`
 
 ## Docker development
 
