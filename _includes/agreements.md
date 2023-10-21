@@ -2,12 +2,15 @@
 # Agreements
 
 ### Mission and Purpose
+
 The purpose of the ManKind Project is to create a safer world by growing “better” men. We do this by training men and supporting them in groups. The MKP Japan mission is to create a world where men act on their individual and shared responsibility for the future of humanity by initiating and supporting men on a path of emotional maturity, spiritual awareness, and deepening community.
 
 ### Our Vision
-Our vision is a safe world where all men are brothers, in relationship with one another … a world where conflicts are resolved peacefully; where torture, genocide, domestic violence, and senseless war are only entries in the history books …where men are fully accountable and take responsibility for their decisions …where men stand tall and proud to be men, secure in their role and deeply committed to nurturing one another, their families, their communities, and their planet.
+
+Our vision is a safe world where all men are brothers, in relationship with one another… a world where conflicts are resolved peacefully; where torture, genocide, domestic violence, and senseless war are only entries in the history books… where men are fully accountable and take responsibility for their decisions… where men stand tall and proud to be men, secure in their role and deeply committed to nurturing one another, their families, their communities, and their planet.
 
 ### Our Core Values
+
 Accountability * Authenticity * Compassion * Generosity * Integrity * Intercultural Competency * Leadership * Respect
 
 ### Confidentiality
@@ -60,6 +63,7 @@ Checking out
 I will check out before hanging up. I understand men could be concerned for my welfare, and I will respond if someone contacts me. If I fail to do so or exhibit concerning behaviour, someone from MKP Japan may contact my emergency contact or emergency services.
 
 ### Online Etiquette
+
 - I will keep my video and audio connected throughout the meeting.
 - I will join from a private location (no roommates/partners present).
 - I will mute myself when I'm not talking.
@@ -69,9 +73,10 @@ I will check out before hanging up. I understand men could be concerned for my w
 - I will always pay attention to the screen in case someone is trying to communicate with me.
 
 ### Acknowledgement & Commitment
+
 ManKind Project's training, programs, and groups are not a substitute for professional mental health services. I am a man of 18 years of age or older. Mankind Project Japan only welcomes those who agree to be respectful, compassionate and welcoming to all who attend, regardless of their race/ethnicity, ability, socio-economic status, age, religion, or sexual orientation. I understand that I may be removed from the group for being disruptive or not following these agreements.
 
-- - - - -
+---
 
 If you agree to the above, feel free to email
 tokyo α𝐭 mkpjapan.org
