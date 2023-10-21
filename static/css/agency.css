@@ -127,12 +127,11 @@ fieldset[disabled] .btn-primary.active {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
-    font-weight: 700;
-    color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    font-weight: 800;
+    background-color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.secondary-dark }}
 }
 
 .btn-xl:hover,
@@ -315,7 +314,7 @@ header .intro-text .intro-heading {
     text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
 }
 
