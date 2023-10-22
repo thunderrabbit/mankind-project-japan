@@ -1,6 +1,7 @@
 ---
 linktitle: Welcome
 layout: home
+navbarClass: 'navbar-shrinkable'
 ---
 
 # Imagine

@@ -4,15 +4,14 @@
 
   {% include head.html %}
 
-
     <body id="page-top" class="index">
 
-    {% include header.html %}
-    {% include join.html %}
-    {% include about.html %}
-    {% include agreements.html %}
-    {% include footer.html %}
-    {% include js.html %}
+  {% include nav.html %}
 
-    </body>
+      {{ content }}
+
+  {% include footer.html %}
+  {% include js.html %}
+
+    </body>    
 </html>

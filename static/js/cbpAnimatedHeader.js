@@ -11,7 +11,7 @@
 var cbpAnimatedHeader = (function() {
 
 	var docElem = document.documentElement,
-		header = document.querySelector( '.navbar-fixed-top' ),
+		header = document.querySelector( '.navbar-fixed-top.navbar-shrinkable' ),
 		didScroll = false,
 		changeHeaderOn = 100;
 
@@ -21,6 +21,7 @@ var cbpAnimatedHeader = (function() {
 				didScroll = true;
 				setTimeout( scrollPage, 250 );
 			}
+			return true
 		}, false );
 	}
 
@@ -33,6 +34,7 @@ var cbpAnimatedHeader = (function() {
 			classie.remove( header, 'navbar-shrink' );
 		}
 		didScroll = false;
+		return true
 	}
 
 	function scrollY() {

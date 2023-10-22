@@ -1,0 +1,28 @@
+---
+---
+.join-text {
+    width:100%;
+}
+
+header .intro-text {
+	padding-top: 200px;
+	.intro-heading {
+		text-shadow: 1px 1px 2px #333;
+		text-transform: none;
+	}
+}
+
+.join-img {
+    width: 70%;
+    padding: 5 5;
+    border-radius: 8px;
+}
+
+img.hover-shadow {
+    transition: 0.3s;
+  }
+  
+.hover-shadow:hover {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+

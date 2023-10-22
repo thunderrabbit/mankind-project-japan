@@ -1,3 +1,5 @@
+---
+---
 /*!
  * Start Bootstrap - Agency Bootstrap Theme (http://startbootstrap.com)
  * Code licensed under the Apache License v2.0.
@@ -21,7 +23,7 @@ body {
     color: #{{ site.data.template.color.primary }};
 }
 
-p {
+p, ul {
     font-size: 18px;
     line-height: 1.75;
 }
@@ -55,7 +57,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
@@ -74,7 +76,7 @@ h6 {
 
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #fff;
@@ -87,7 +89,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+/*    color: #fff;*/
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -125,12 +127,11 @@ fieldset[disabled] .btn-primary.active {
     padding: 20px 40px;
     border-color: #{{ site.data.template.color.primary }};
     border-radius: 3px;
-    text-transform: uppercase;
     font-family: {{ site.data.template.font.primary }};
     font-size: 18px;
-    font-weight: 700;
-    color: #fff;
-    background-color: #{{ site.data.template.color.primary }};
+    font-weight: 800;
+    background-color: #{{ site.data.template.color.secondary }};
+    color: #{{ site.data.template.color.secondary-dark }}
 }
 
 .btn-xl:hover,
@@ -139,7 +140,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+/*    color: #fff;*/
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -175,7 +176,7 @@ fieldset[disabled] .btn-xl.active {
 
 .navbar-default {
     border-color: transparent;
-    background-color: #222;
+    background-color: #{{ site.data.template.color.tertiary }};
 }
 
 .navbar-default .navbar-brand {
@@ -202,8 +203,8 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .navbar-toggle {
-    border-color: #{{ site.data.template.color.primary }};
-    background-color: #{{ site.data.template.color.primary }};
+    border-color: #{{ site.data.template.color.tertiary }};
+    background-color: #{{ site.data.template.color.tertiary }};
 }
 
 .navbar-default .navbar-toggle .icon-bar {
@@ -216,7 +217,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
@@ -275,7 +276,7 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #222;
+        background-color: #1f3a6d;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
@@ -310,10 +311,10 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-size: 25px;
-    font-weight: 700;
+    font-weight: 600;
     text-align: left;
 }
 
@@ -368,11 +369,11 @@ section h3.section-subheading {
     font-weight: 400;
 }
 
-@media(min-width:768px) {
+/*@media(min-width:768px) {
     section {
         padding: 150px 0;
     }
-}
+}*/
 
 .service-heading {
     margin: 15px 0;
