@@ -57,7 +57,7 @@ h3,
 h4,
 h5,
 h6 {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
 }
@@ -76,7 +76,7 @@ h6 {
 
 .btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 700;
     color: #fff;
@@ -89,7 +89,7 @@ h6 {
 .btn-primary.active,
 .open .dropdown-toggle.btn-primary {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+/*    color: #fff;*/
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -140,7 +140,7 @@ fieldset[disabled] .btn-primary.active {
 .btn-xl.active,
 .open .dropdown-toggle.btn-xl {
     border-color: #{{ site.data.template.color.primary }};
-    color: #fff;
+/*    color: #fff;*/
     background-color: #{{ site.data.template.color.secondary }};
 }
 
@@ -217,7 +217,7 @@ fieldset[disabled] .btn-xl.active {
 }
 
 .navbar-default .nav li a {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-weight: 400;
     letter-spacing: 1px;
@@ -311,7 +311,7 @@ header .intro-text .intro-lead-in {
 }
 
 header .intro-text .intro-heading {
-    text-transform: uppercase;
+    text-transform: none;
     font-family: {{ site.data.template.font.primary }};
     font-size: 25px;
     font-weight: 600;
