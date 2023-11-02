@@ -10,9 +10,9 @@ header .intro-text {
 		text-shadow: 1px 1px 2px #333;
 		text-transform: none;
 	}
-.intro-subtext {
-    font-family: {{ site.data.template.font.secondary }};
-}
+    .intro-subtext {
+        font-family: {{ site.data.template.font.secondary }};
+    }
 
 }
 
@@ -142,6 +142,33 @@ img.hover-shadow {
     margin-left: 10%;
     margin-right: 10%;
     text-align: center;
+}
+
+
+#benefits {
+    background: #f2f3f3;
+    .benefit {
+        padding-bottom: 16px;
+        h3 {
+            margin-top: 0;
+            color: #FFFCF0;
+            border-radius: 6px;
+            background: #8F949D;
+            padding: 10px 14px;
+            font-size: 24px;
+            i {
+                background: white;
+                border-radius: 50%;
+                padding: 3px;
+            }
+        }
+        ul {
+            li {
+                font-family: {{ site.data.template.font.secondary }};
+                padding: 4px 0;
+            }
+        }
+    }
 }
 
 /* carousel overrides*/
