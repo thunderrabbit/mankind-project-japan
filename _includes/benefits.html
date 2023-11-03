@@ -7,15 +7,14 @@
                 <h3 class="section-subheading text-muted text-center">{{ s.subtitle }}</h3>
             </div>
             <div class="col-md-6">
-                {% for benefit_hash in site.data.benefits %}
-                {% assign benefit = benefit_hash[1] %}
+                {% for b in site.data.benefits %}
                 <div class="benefit">
                     <h3>
-                        <i>{{ benefit.icon }}</i> {{ benefit.title }}
+                        <i>{{ b.icon }}</i> {{ b.title }}
                     </h3>
                     <ul>
-                        {% for statement in benefit.benefits %}
-                        <li>{{ statement.benefit }}</li>
+                        {% for statement in b.benefits %}
+                        <li>{{ statement | markdownify }}</li>
                         {% endfor %}
                     </ul>
                 </div>
