@@ -106,14 +106,16 @@ img.hover-shadow {
 /* FAQ cards */
 
 #faqs {
+    .row {
+        columns: 2 auto;
+    }
     .card {
         display: inline-block;
-        width: 48%;
         overflow: hidden;
         position: relative;
-        float: left;
-        /* Add some padding inside the card container */
+        width: 100%;
         .container {
+            display: block;
             padding: 2px 16px;
             font-size: 90%;
             width: 100%;
