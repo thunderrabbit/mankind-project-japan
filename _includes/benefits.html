@@ -1,5 +1,5 @@
-{% assign s = site.data.strings[page.benefits_section] %}
-<section id="{{ page.benefits_section }}">
+{% assign s = site.data.strings['benefits'] %}
+<section id="{{ s.id }}">
     <div class="container">
         <div class="row">
             <div class="col-md-12">
@@ -24,7 +24,6 @@
             <div class="col-md-6 text-center">
                 <div class="benefits-img-container">
                     <img src="/static/images/site/mencirclehands.png" class="benefits-img" alt="a circle of hands, taken 2020 Tokyo" />
-                    <div class="benefits-img-text">{{ s.picture_date }}</div>
                 </div>
                 <br/>
             </div>
