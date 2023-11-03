@@ -1,5 +1,13 @@
 ---
 ---
+
+footer {
+	.row {
+		padding: 24px 0;
+		border-top: 2px solid #888;
+	}
+}
+
 .join-text {
     width:100%;
 }
@@ -13,9 +21,16 @@ header .intro-text {
     .intro-subtext {
         font-family: {{ site.data.template.font.secondary }};
     }
-
 }
 
+.btn-xl {
+	background-color: #{{ site.data.template.color.buttonyellow }};
+	color: #fff;
+	font-weight: bold;
+	font-size: 150%;
+	text-shadow: 0 0 2px #440, 0 0 20px #440;
+	padding: 9px 24px;
+}
 
 section {
     h2.section-heading {
@@ -88,7 +103,6 @@ section {
     background-position: center center;
     background-repeat: none;
     width: 100%;
-    // min-height: 400px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;

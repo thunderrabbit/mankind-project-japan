@@ -2,6 +2,7 @@
 <section id="{{ s.id }}">
     <div class="container">
         <h2 class="section-heading text-center">{{s.title}}</h2>
+        <h3 class="section-subheading text-muted text-center">{{ s.subtitle }}</h3>
         <div class="row">
             {% for faq in site.data.faqs %}
                 <div class="card">
