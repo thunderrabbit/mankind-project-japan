@@ -12,7 +12,7 @@
 body {
     overflow-x: hidden;
     font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
-    color: #{{ site.data.template.color.secondary-dark }};
+    color: #{{ site.data.template.color.secondaryDark }};
 }
 
 .text-muted {
@@ -131,7 +131,7 @@ fieldset[disabled] .btn-primary.active {
     font-size: 18px;
     font-weight: 800;
     background-color: #{{ site.data.template.color.secondary }};
-    color: #{{ site.data.template.color.secondary-dark }}
+    color: #{{ site.data.template.color.secondaryDark }}
 }
 
 .btn-xl:hover,
@@ -749,7 +749,6 @@ section#contact .text-danger {
 
 footer {
     padding: 25px 0;
-    text-align: center;
 }
 
 footer span.copyright {

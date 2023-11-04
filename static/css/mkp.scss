@@ -1,5 +1,13 @@
 ---
 ---
+
+footer {
+	.row {
+		padding: 24px 0;
+		border-top: 2px solid  #{{site.data.template.color.muted}};
+	}
+}
+
 .join-text {
     width:100%;
 }
@@ -7,15 +15,22 @@
 header .intro-text {
 	padding-top: 200px;
 	.intro-heading {
-		text-shadow: 1px 1px 2px #333;
+		text-shadow: 1px 1px 2px  #{{site.data.template.color.secondaryDark}};
 		text-transform: none;
 	}
     .intro-subtext {
         font-family: {{ site.data.template.font.secondary }};
     }
-
 }
 
+.btn-xl {
+	background-color: #{{ site.data.template.color.mkpYellow }};
+	color: #fff;
+	font-weight: bold;
+	font-size: 150%;
+	// text-shadow: 0 0 2px #440, 0 0 20px #440;
+	padding: 9px 24px;
+}
 
 section {
     h2.section-heading {
@@ -88,7 +103,6 @@ section {
     background-position: center center;
     background-repeat: none;
     width: 100%;
-    // min-height: 400px;
     -webkit-background-size: cover;
     -moz-background-size: cover;
     background-size: cover;
@@ -123,7 +137,7 @@ img.hover-shadow {
         h4 {
             font-family: {{ site.data.template.font.secondary }};
             font-weight: bold;
-            border-top: 2px solid #888;
+            border-top: 2px solid #{{site.data.template.color.muted}};
             padding: 1em 0;
         }
         p {

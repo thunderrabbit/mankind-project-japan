@@ -41,4 +41,5 @@ testimonials:
 faqs:
   id: faqs
   title: FAQs
+  subtitle: Find answers to frequently asked questions
   join_url: https://forms.gle/L64N8goVx42bHz7F7
