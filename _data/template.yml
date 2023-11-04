@@ -2,11 +2,10 @@
 color:
   primary: fed136
   secondary: fec503
-  secondary-dark: 333
+  secondaryDark: 333
   muted: 777
-  mkpyellow: fed136
+  mkpYellow: fed136
   mkpblue: 1f396d
-  buttonyellow: eebe1c
 
 # Font Families
 font:
