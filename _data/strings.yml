@@ -21,7 +21,7 @@ benefits:
   id: benefits
   title: What We Offer
   subtitle: We believe in building better men
-  picture_date: Taken 2020, Tokyo
+  picture_alt_text: a circle of hands, taken at a meeting
 
 # Join Section
 join:
@@ -42,4 +42,4 @@ faqs:
   id: faqs
   title: FAQs
   subtitle: Find answers to frequently asked questions
-  join_url: https://forms.gle/L64N8goVx42bHz7F7
+
