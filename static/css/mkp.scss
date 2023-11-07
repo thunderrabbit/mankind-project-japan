@@ -25,11 +25,14 @@ header .intro-text {
 
 .btn-xl {
 	background-color: #{{ site.data.template.color.mkpYellow }};
-	color: #fff;
+	color: #{{ site.data.template.color.secondaryDark }};
 	font-weight: bold;
 	font-size: 150%;
 	// text-shadow: 0 0 2px #440, 0 0 20px #440;
 	padding: 9px 24px;
+	&:hover {
+		color: black;
+	}
 }
 
 section {
@@ -119,10 +122,16 @@ img.hover-shadow {
 
 /* FAQ cards */
 
+@media(min-width:768px) {
+	#faqs {
+	    .row {
+	        columns: 2 auto;
+	    }
+	}
+}
+
+
 #faqs {
-    .row {
-        columns: 2 auto;
-    }
     .card {
         display: inline-block;
         overflow: hidden;
@@ -153,7 +162,7 @@ img.hover-shadow {
 	padding: 4em;
 	display: flex;
 	flex-direction: column;
-	border: 5px solid #{{ site.data.template.color.mkpblue }};;
+	border: 5px solid #{{ site.data.template.color.mkpBlue }};;
 	border-top: none;
 	border-bottom: none;
 	position: relative;
@@ -204,7 +213,7 @@ img.hover-shadow {
 			&:after {
 				content: "";
 				position: absolute;
-				background: #{{ site.data.template.color.mkpblue }};
+				background: #{{ site.data.template.color.mkpBlue }};
 				z-index: 10;
 				height: 5px;
 			}
@@ -223,7 +232,7 @@ img.hover-shadow {
 			&:after {
 				content: "";
 				position: absolute;
-				background: #{{ site.data.template.color.mkpblue }};
+				background: #{{ site.data.template.color.mkpBlue }};
 				z-index: 10;
 				height: 5px;
 			}
@@ -250,23 +259,31 @@ img.hover-shadow {
             color: #FFFCF0;
             border-radius: 6px;
             background: #8F949D;
-            padding: 10px 14px;
+            padding: 8px 8px 8px 2em;
             font-size: 24px;
+            clear: left;
+            position: relative;
+            min-height: 1em;
             i {
                 display: inline-block;
+                position: absolute;
                 width: 1.4em;
                 height: 1.4em;
+                left: 4px;
+                top: 4px;
                 text-align: center;
                 background: white;
                 border-radius: 50%;
                 padding: 3px;
+                margin-bottom: 8px;
                 font-style: normal;
+                margin-right: 10px;
             }
         }
         ul {
             li {
                 font-family: {{ site.data.template.font.secondary }};
-                padding: 4px 0;
+                padding: 8px 0;
             }
         }
     }

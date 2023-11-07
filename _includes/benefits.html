@@ -10,7 +10,8 @@
                 {% for b in site.data.benefits %}
                 <div class="benefit">
                     <h3>
-                        <i>{{ b.icon }}</i> {{ b.title }}
+                        <i>{{ b.icon }}</i>
+                        {{ b.title }}
                     </h3>
                     <ul>
                         {% for statement in b.benefits %}
