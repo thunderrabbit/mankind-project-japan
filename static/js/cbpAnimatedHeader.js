@@ -20,12 +20,12 @@ var cbpAnimatedHeader = (function() {
 			didScroll = true;
 			setTimeout(scrollPage, 250);
 		}
-		console.log('scroll' + scrollY());
 		return true
 	}
 
 	function init() {
 		window.addEventListener('scroll', onScroll, false);
+		setInterval(onScroll, 1000); // in case the page already loads from a #link
 	}
 
 	function scrollPage() {
