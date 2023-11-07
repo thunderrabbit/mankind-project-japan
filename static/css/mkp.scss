@@ -25,11 +25,14 @@ header .intro-text {
 
 .btn-xl {
 	background-color: #{{ site.data.template.color.mkpYellow }};
-	color: #fff;
+	color: #333;
 	font-weight: bold;
 	font-size: 150%;
 	// text-shadow: 0 0 2px #440, 0 0 20px #440;
 	padding: 9px 24px;
+	&:hover {
+		color: black;
+	}
 }
 
 section {
@@ -153,7 +156,7 @@ img.hover-shadow {
 	padding: 4em;
 	display: flex;
 	flex-direction: column;
-	border: 5px solid #{{ site.data.template.color.mkpblue }};;
+	border: 5px solid #{{ site.data.template.color.mkpBlue }};;
 	border-top: none;
 	border-bottom: none;
 	position: relative;
@@ -204,7 +207,7 @@ img.hover-shadow {
 			&:after {
 				content: "";
 				position: absolute;
-				background: #{{ site.data.template.color.mkpblue }};
+				background: #{{ site.data.template.color.mkpBlue }};
 				z-index: 10;
 				height: 5px;
 			}
@@ -223,7 +226,7 @@ img.hover-shadow {
 			&:after {
 				content: "";
 				position: absolute;
-				background: #{{ site.data.template.color.mkpblue }};
+				background: #{{ site.data.template.color.mkpBlue }};
 				z-index: 10;
 				height: 5px;
 			}

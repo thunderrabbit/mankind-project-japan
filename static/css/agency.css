@@ -245,6 +245,15 @@ fieldset[disabled] .btn-xl.active {
     background-color: #{{ site.data.template.color.secondary }};
 }
 
+.navbar-default.navbar-shrink {
+    padding: 0 0;
+    margin: 0;
+    background-color: #1f3a6d;
+    -webkit-transition: background-color .3s;
+    -moz-transition: background-color .3s;
+    transition: background-color .3s;
+}
+
 @media(min-width:768px) {
     .navbar-default {
         padding: 25px 0;
@@ -277,6 +286,9 @@ fieldset[disabled] .btn-xl.active {
     .navbar-default.navbar-shrink {
         padding: 10px 0;
         background-color: #1f3a6d;
+        -webkit-transition: background-color .3s;
+        -moz-transition: background-color .3s;
+        transition: background-color .3s;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
