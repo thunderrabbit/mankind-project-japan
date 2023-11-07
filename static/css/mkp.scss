@@ -25,7 +25,7 @@ header .intro-text {
 
 .btn-xl {
 	background-color: #{{ site.data.template.color.mkpYellow }};
-	color: #333;
+	color: #{{ site.data.template.color.secondaryDark }};
 	font-weight: bold;
 	font-size: 150%;
 	// text-shadow: 0 0 2px #440, 0 0 20px #440;

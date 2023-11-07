@@ -11,7 +11,7 @@
 
 body {
     overflow-x: hidden;
-    font-family: "Roboto Slab","Helvetica Neue",Helvetica,Arial,sans-serif;
+    font-family: {{ site.data.template.font.primary }};
     color: #{{ site.data.template.color.secondaryDark }};
 }
 
@@ -248,7 +248,7 @@ fieldset[disabled] .btn-xl.active {
 .navbar-default.navbar-shrink {
     padding: 0 0;
     margin: 0;
-    background-color: #1f3a6d;
+    background-color: #{{ site.data.template.color.mkpBlue }};
     -webkit-transition: background-color .3s;
     -moz-transition: background-color .3s;
     transition: background-color .3s;
@@ -285,10 +285,6 @@ fieldset[disabled] .btn-xl.active {
 
     .navbar-default.navbar-shrink {
         padding: 10px 0;
-        background-color: #1f3a6d;
-        -webkit-transition: background-color .3s;
-        -moz-transition: background-color .3s;
-        transition: background-color .3s;
     }
 
     .navbar-default.navbar-shrink .navbar-brand {
