@@ -122,10 +122,16 @@ img.hover-shadow {
 
 /* FAQ cards */
 
+@media(min-width:768px) {
+	#faqs {
+	    .row {
+	        columns: 2 auto;
+	    }
+	}
+}
+
+
 #faqs {
-    .row {
-        columns: 2 auto;
-    }
     .card {
         display: inline-block;
         overflow: hidden;
@@ -253,10 +259,12 @@ img.hover-shadow {
             color: #FFFCF0;
             border-radius: 6px;
             background: #8F949D;
-            padding: 10px 14px;
+            padding: 8px 14px;
             font-size: 24px;
+            clear: left;
             i {
-                display: inline-block;
+                display: block;
+                float: left;
                 width: 1.4em;
                 height: 1.4em;
                 text-align: center;
@@ -264,6 +272,7 @@ img.hover-shadow {
                 border-radius: 50%;
                 padding: 3px;
                 font-style: normal;
+                margin-right: 10px;
             }
         }
         ul {
