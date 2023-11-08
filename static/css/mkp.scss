@@ -265,19 +265,20 @@ img.hover-shadow {
             position: relative;
             min-height: 1em;
             i {
+            	color: #8F949D;
+            	text-align: center!important;
+            	font-size: 18px;
                 display: inline-block;
                 position: absolute;
-                width: 1.4em;
-                height: 1.4em;
-                left: 4px;
-                top: 4px;
+                width: 27px;
+                height: 27px;
+                left: 7px;
+                top: 7px;
                 text-align: center;
                 background: white;
                 border-radius: 50%;
-                padding: 3px;
-                margin-bottom: 8px;
+                padding: 4px 5px;
                 font-style: normal;
-                margin-right: 10px;
             }
         }
         ul {

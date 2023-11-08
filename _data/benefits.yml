@@ -1,18 +1,18 @@
 - title: Support and Connection
-  icon: 🤗
+  icon: fas fa-user-friends
   benefits:
     - "You are **heard and respected**. Everyone listens to your words. What you say is confidential."
     - "You are **valued** and **respected** by a circle of men who help each other in realizing their dreams."
 
 - title: Growth and Belonging
-  icon: 🤝
+  icon: fas fa-user-graduate
   benefits:
     - "**Break free** from **limiting and sabotaging beliefs**."
     - "**Find brotherhood** and **insight**."
     - "Access your **inner leader**."
 
 - title: Leadership and Accountability
-  icon: 🏡
+  icon: fas fa-user-tie
   benefits:
     - "Men **remind** you of your **commitments** without judgment."
     - "Men **hold you accountable** and keep you focused on your goals."
