@@ -281,25 +281,14 @@ img.hover-shadow {
             color: #FFFCF0;
             border-radius: 6px;
             background: #8F949D;
-            padding: 8px 8px 8px 2em;
+            padding: 8px 8px 8px 10px;
             font-size: 24px;
             clear: left;
             position: relative;
             min-height: 1em;
             i {
-                display: inline-block;
-                position: absolute;
-                width: 1.4em;
-                height: 1.4em;
-                left: 4px;
-                top: 4px;
-                text-align: center;
-                background: white;
-                border-radius: 50%;
-                padding: 3px;
-                margin-bottom: 8px;
-                font-style: normal;
-                margin-right: 10px;
+              text-align: center;
+              color: white;
             }
         }
         ul {
